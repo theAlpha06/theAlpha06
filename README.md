@@ -43,8 +43,17 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/lodash.svg" title="Lodash" alt="Lodash" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 </div>
 
 ---
