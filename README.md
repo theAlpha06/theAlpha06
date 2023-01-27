@@ -35,7 +35,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-thealphacoder-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thealphacoder/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-theAlpha06-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thealphacoder/)
 
 ---
 
