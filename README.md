@@ -1,5 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZXkraFrlIW1D25M6ZJ/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</div>
+
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Shubham+%F0%9F%91%8B;A+Full+Stack+Web+Developer" alt="Headline" />
 </div>
 
 <div id="badges" align="center">
@@ -9,20 +13,10 @@
   <a href="https://twitter.com/theAlphaCoder06">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<div align="center">
+  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=theAlphaCoder06&style=flat-square&color=blue"/>
 </div>
-
-<h1 align="center">
-  Hello Geeks
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
-
 ---
 
 ### :man_technologist: About Me :
@@ -61,3 +55,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theAlpha06&theme=python-dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=theAlpha06&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
