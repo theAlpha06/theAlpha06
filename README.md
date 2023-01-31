@@ -17,7 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=theAlphaCoder06&style=flat-square&color=blue"/>
 </div>
 </div>
----
 
 ### :man_technologist: About Me :
 
@@ -54,7 +53,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-| ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=theAlpha06&show_icons=true&theme=tokyonight) | ![Shubham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theAlpha06&theme=tokyonight)
+ ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=theAlpha06&show_icons=true&theme=tokyonight)  ![Shubham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theAlpha06&theme=tokyonight)
 
 
 [![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=theAlpha06&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
