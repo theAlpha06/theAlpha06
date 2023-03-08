@@ -24,7 +24,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m a Student and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring new fameworks.
+- :seedling: Currently, working on Internet Computer projects.
 
 - :zap: I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
 
