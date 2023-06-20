@@ -35,7 +35,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :hammer_and_wrench: Languages and Tools :
 
 
-<div>
+<div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
@@ -47,6 +47,10 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" title="NestJS" alt="nestjs" width="40" height="40"/>&nbsp;
 </div>
 
 ---
