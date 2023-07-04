@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/185e0573-22f8-47a3-82e7-b32e6190ccff" width="100%"/>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Shubham+%F0%9F%91%8B;A+Full+Stack+Web+Developer" alt="Headline" />
 </div>
 
 ```Javascript
@@ -24,6 +23,7 @@ console.log(developer);
 
 
 <div id="badges" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Shubham+%F0%9F%91%8B;A+Web+Developer" alt="Headline" /> <br />
   <a href="https://www.linkedin.com/in/thealphacoder/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
