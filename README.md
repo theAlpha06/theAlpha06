@@ -35,7 +35,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m a Student and contributing to frontend and backend for building web applications.
 
-- :seedling: Currently, working on Internet Computer projects.
+- :seedling: Currently, working on ThreeJS.
 
 - :zap: I also solve problems on various coding platforms(viz Coding Ninjas, GeeksforGeeks, CodeChef, etc) and read tech articles.
 
