@@ -1,21 +1,26 @@
 <div align="center">
-  <img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/185e0573-22f8-47a3-82e7-b32e6190ccff"/>
-</div>
-
-
-
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Shubham+%F0%9F%91%8B;A+Full+Stack+Web+Developer" alt="Headline" />
+  <img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/185e0573-22f8-47a3-82e7-b32e6190ccff" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Shubham+%F0%9F%91%8B;A+Full+Stack+Web+Developer" alt="Headline" />
 </div>
 
 ```Javascript
-const self = {
-  "name": "Shubham Singh",
-  "username": "theAlpha06",
-  "location": "Punjab",
-  "web": "https://thealpha06.github.io/Shubham/"
+import * as developer from 'theAlpha06';
+
+console.log(developer);
+```
+
+<kbd>Console Preview</kbd>
+```console
+{
+  name: "Shubham Singh",
+  username: "theAlpha06",
+  domain: "Development",
+  workingOn: "ThreeJS",
+  website: "https://thealpha06.github.io/Shubham/",
+  github: "theAlpha06",
 }
 ```
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thealphacoder/">
