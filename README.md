@@ -98,8 +98,22 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
       <td>https://techfestsliet.org</td>
     </tr>
     <tr>
+      <td>
+        Tripper  <br />
+        This project was build in ELECTROTHON 5.0, organized by NIT Hamirpur.
+      </td>
+      <td><img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/6ad55b3b-07ab-40cb-aea9-054c89e771ec" width="500px" /></td>
+      <td>
+        Team Members: <br />
+        https://github.com/GAURAV1-ui <br />
+        https://github.com/shoaibisa <br />
+        https://github.com/Anubhav-Raj
+      </td>
+    </tr>
+    <tr>
       <td>Solar System</td>
       <td><img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/cbcf530b-3bfc-4c6a-abbb-2375430aace5" width="500px" /></td>
       <td>https://solar-system-weld.vercel.app/</td>
     </tr>
   </tbody>
+</table>
