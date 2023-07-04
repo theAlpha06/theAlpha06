@@ -59,4 +59,4 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ![Shubham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theAlpha06&theme=tokyonight)
 
 
-[![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=theAlpha06&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theAlpha06&bg_color=000000&color=ffffff&line=ffffff&point=f00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
