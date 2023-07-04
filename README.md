@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/185e0573-22f8-47a3-82e7-b32e6190ccff"/>
 </div>
+
+
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Shubham+%F0%9F%91%8B;A+Full+Stack+Web+Developer" alt="Headline" />
