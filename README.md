@@ -6,6 +6,15 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Shubham+%F0%9F%91%8B;A+Full+Stack+Web+Developer" alt="Headline" />
 </div>
 
+```Javascript
+const self = {
+  "name": "Shubham Singh",
+  "username": "theAlpha06",
+  "location": "Punjab",
+  "web": "https://thealpha06.github.io/Shubham/"
+}
+```
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thealphacoder/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +27,7 @@
 </div>
 </div>
 
-### :man_technologist: About Me :
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -30,9 +39,10 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-theAlpha06-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thealphacoder/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### :hammer_and_wrench: Languages and Tools :
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 
 <div align="center">
@@ -55,7 +65,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 </div>
 
 ---
-
 
 | :fire: My Stats  | Activity  |
 |-----------|-----------|
