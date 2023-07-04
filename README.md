@@ -76,3 +76,30 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 | :fire: My Stats  | Activity  |
 |-----------|-----------|
 |![Shubham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theAlpha06&theme=tokyonight)    | [![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theAlpha06&bg_color=000000&color=ffffff&line=ffffff&point=f00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)     |
+
+## Projects
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        Vaizle <br />
+        Intern at @Vaizle
+      </td>
+      <td><img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/a27a600a-ffc2-4457-a7ed-b17d81cef21f" width="500px"/></td>
+      <td>https://vaizle.com</td>
+    </tr>
+    <tr>
+      <td>
+        techFEST'23 <br />
+        MERN Stack Developer @techFEST'23
+      </td>
+      <td><img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/8f83e360-967d-4185-b496-8e6a50e1693f" width="500px" /></td>
+      <td>https://techfestsliet.org</td>
+    </tr>
+    <tr>
+      <td>Solar System</td>
+      <td><img src="https://github.com/theAlpha06/theAlpha06/assets/95537249/cbcf530b-3bfc-4c6a-abbb-2375430aace5" width="500px" /></td>
+      <td>https://solar-system-weld.vercel.app/</td>
+    </tr>
+  </tbody>
